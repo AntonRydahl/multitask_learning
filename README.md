@@ -19,5 +19,5 @@ The multitask learning model build on top of the pretrained ResNet-18 can be fou
 ## Single Task Classification Models
 In order to compare the quality of the multitask models we also developed two regular deep neural networks for classification of diagnosis and chraracteristics (symptoms) respectively. They can be found in the folder <a href="https://github.com/AntonRydahl/multitask_learning/tree/main/singletask_models">singletask_models</a>.
 
-## Dataset
+## Note on Data
 The images and data sets for this project are private and you will therefore not be able to run the notebooks. 
