@@ -9,11 +9,11 @@ sys.path.insert(0,'/content/drive/MyDrive/INSERT_DIRECTORY_HERE') # Insert folde
 drive_path= "drive/MyDrive/project/" # Insert folder name here
 ```
 ## Multitask Learning Model
-The multitask learning model with connected output layers can be found in the notebook <a href="https://github.com/multitask_learning/CSTR/blob/main/final_network_connection/">final_network_connection.ipynb</a>. The following figure illustrates how the two feed forward neural networks have been connected.
+The multitask learning model with connected output layers can be found in the notebook <a href="https://github.com/multitask_learning/CSTR/blob/main/Final_Network_No_Connection.ipynb">Final_Network_No_Connection.ipynb</a>. The following figure illustrates how the two feed forward neural networks have been connected.
 <p align="center"><img src="https://github.com/AntonRydahl/multitask_learning/blob/main/figures/combined_classifier.png" alt="drawing" width="500"/></p>
 
 ## Multitask Learning Model with Connected Output Layers
-The multitask learning model build on top of the pretrained ResNet-18 can be found in the notebook <a href="https://github.com/multitask_learning/CSTR/blob/main/final_network_no_connection/">final_network_no_connection.ipynb</a>. The network is illustrated by the following figure.
+The multitask learning model build on top of the pretrained ResNet-18 can be found in the notebook <a href="https://github.com/multitask_learning/CSTR/blob/main/Final_Network_Connection.ipynb">Final_Network_Connection.ipynb</a>. The network is illustrated by the following figure.
 <p align="center"><img src="https://github.com/AntonRydahl/multitask_learning/blob/main/figures/final_classifier.png" alt="drawing" width="500"/></p>
 
 ## Single Task Classification Models
